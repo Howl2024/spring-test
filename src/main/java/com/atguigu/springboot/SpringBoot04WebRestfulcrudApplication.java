@@ -12,6 +12,7 @@ public class SpringBoot04WebRestfulcrudApplication {
 
 	public void hello(){
 		System.out.println("hello Git from ideaIDE");
-	}
+        System.out.println("hello2");
+    }
 
 }
