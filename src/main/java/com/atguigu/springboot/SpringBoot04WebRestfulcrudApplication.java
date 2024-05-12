@@ -10,4 +10,8 @@ public class SpringBoot04WebRestfulcrudApplication {
 		SpringApplication.run(SpringBoot04WebRestfulcrudApplication.class, args);
 	}
 
+	public void hello(){
+		System.out.println("hello Git from ideaIDE");
+	}
+
 }
