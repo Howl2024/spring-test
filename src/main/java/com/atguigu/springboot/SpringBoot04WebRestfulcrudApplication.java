@@ -19,6 +19,7 @@ public class SpringBoot04WebRestfulcrudApplication {
 		System.out.println("push test again");
 		System.out.println("remote modified test");
 		System.out.println("push modified test");
+		System.out.println("remote modified test 2th");
 
     }
 
