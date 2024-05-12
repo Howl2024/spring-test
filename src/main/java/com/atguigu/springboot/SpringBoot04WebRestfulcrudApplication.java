@@ -12,11 +12,11 @@ public class SpringBoot04WebRestfulcrudApplication {
 
 	public void hello(){
 		System.out.println("hello Git from ideaIDE");
-        System.out.println("hello2");
+		System.out.println("hello2");
 		System.out.println("hello3 hot-fix");
 		System.out.println("master test");
-        System.out.println("hot-fixed test");
-        System.out.println("push test");
+		System.out.println("hot-fixed test");
+		System.out.println("push test again");
     }
 
 }
