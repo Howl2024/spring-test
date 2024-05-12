@@ -15,7 +15,7 @@ public class SpringBoot04WebRestfulcrudApplication {
         System.out.println("hello2");
 		System.out.println("hello3 hot-fix");
 		System.out.println("master test");
-
-	}
+        System.out.println("hot-fixed test");
+    }
 
 }
